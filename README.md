@@ -1,7 +1,8 @@
 # Missile-Airburst-Softlaunch
-Titanfall 2 mod: implements a scrapped salvo core missile mechanic, line of code still in the game files
+Titanfall 2 mod: implements a scrapped salvo core missile mechanic, the line of code is still in the game files.
 
-This Mod aims to add visual airburst/softlaunch effects for most missiles
+This Mod aims to add visual airburst/softlaunch effects for most missiles.
+
 Following missiles are affected:
 | Following Entity               | Effect Type                  |
 |--------------------------------|------------------------------|
