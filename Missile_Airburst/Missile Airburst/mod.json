@@ -1,8 +1,0 @@
-{
-	"Name": "Missile Airburst",
-	"Description": "Missiles will airburst after traveling a certain distance, some even start off without any kind of exhaust at all similar to javelin",
-	"LoadPriority": 0,
-	"RequiredOnClient": false,
-	"Version": "1.0",
-
-}
