@@ -11,7 +11,7 @@ Following missiles are affected:
 | Monarch MTMS (guided Missiles) | Airburst after set distance  |
 | Archer                         | Softlaunch                   |  
 
-Btw, all of those have a small explosion like soft effect during the effect, you can disable it if you want by adding "//" infront of ""ignition_sound"", it should look like this "//"ignition_sound"". 
+Btw, all of those have a small explosion like sound effect during the airburst/softlaunch effect. You can disable it if you want by adding "//" infront of ""ignition_sound"", it should look like this "//"ignition_sound"". 
 
 You can also customize softlaunch/airburst distance value, the distance at which the missile will perform said effect ""ignition_distance"                             "500""
 
